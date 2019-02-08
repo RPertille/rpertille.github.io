@@ -11,31 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Engineer Agronomist, Federal University of Technology - Paraná, 2018.
+* Msc Student, Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná, 2014.
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2017: Research Assistant/Trainee
+  * Project ¨Xisto Agrícola¨
+  * Embrapa CPACT / Petrobras
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2018: Scientific researcher
+  * Federal University of Technology - Paraná, Pato Branco, Paraná, Brazil.
+  * Modeling of the heterogeneity of temperate fruit trees growing in subtropical conditions.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Fruits
+* Horticulture
+  * Ecophysiology
+  * Orchard management
+  * Dormancy
+  
+* Computational statistics
+  * Programming in R language
+  * Data Science
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
