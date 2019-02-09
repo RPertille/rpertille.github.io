@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
-collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+title: "DiseasePlan-a spreadsheet application for training people to assess disease severity and to assist with standard area diagram development"
+collection: publications
+permalink: /publication/2015-10-01-paper_2
+excerpt:
+date: 2017-10-01
+venue: 'Ciência Rural'
+paperurl: 'http://www.scielo.br/pdf/cr/v47n6/1678-4596-cr-47-06-e20160924.pdf'
+citation: 'Sachet, M. R., Citadin, I., Danner, M. A., Guerrezi, M. T., & Pertille, R. H. (2017). DiseasePlan-a spreadsheet application for training people to assess disease severity and to assist with standard area diagram development. <i> Ciência Rural </i>. 45(12), 2161-2163.'
+---
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://www.scielo.br/pdf/cr/v47n6/1678-4596-cr-47-06-e20160924.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: 'Sachet, M. R., Citadin, I., Danner, M. A., Guerrezi, M. T., & Pertille, R. H. (2017). "DiseasePlan-a spreadsheet application for training people to assess disease severity and to assist with standard area diagram development." <i> Ciência Rural </i>. 45(12), 2161-2163.'
