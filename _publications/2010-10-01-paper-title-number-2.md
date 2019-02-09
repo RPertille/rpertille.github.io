@@ -1,5 +1,4 @@
 ---
----
 title: "DiseasePlan-a spreadsheet application for training people to assess disease severity and to assist with standard area diagram development"
 collection: publications
 permalink: /publication/2015-10-01-paper_2
