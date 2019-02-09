@@ -36,6 +36,9 @@ Skills
   * Programming in R language
   * Data Science
   
+* Scientific communication / reproducibility
+  * R Markdown - knitr
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
