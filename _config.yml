@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rafael Henrique Pertille"
 title_separator          : "-"
 name                     : &name "Rafael Henrique Pertille"
-description              : &description "I'm student of agronomy at UTFPR - Pato Branco"
+description              : &description "M.sc Student, Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná"
 url                      : https://rpertille.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "RPertille/rpertille.github.io"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Rafael Henrique Pertille"
-  avatar           : "profile.png"
+  avatar           : "fatandhappy.png"
   bio              : 
   location         : "Pato Branco - PR"
   employer         :
