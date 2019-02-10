@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Engineer Agronomist, Federal University of Technology - Paraná, 2018.
+* Agronomist Engineer, Federal University of Technology - Paraná, 2018.
 * M.sc Student, Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná, 2019 - current.
 
 Work experience
