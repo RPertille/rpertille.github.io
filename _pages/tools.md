@@ -1,7 +1,9 @@
 ---
 permalink: /tools/
-title: "tools"
+title: "Tools"
 author_profile: true
+redirect_from: 
+  - /tools/
 
 ---
 
