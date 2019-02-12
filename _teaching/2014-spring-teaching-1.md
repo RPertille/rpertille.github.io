@@ -1,14 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Disciplina de introdução a linguagem R"
 collection: teaching
-type: "Undergraduate course"
+type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UTFPR - PB / PPGAG"
+date: 2019-02
+location: "Pato Branco, Paraná, Brazil"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Material curso
+
+[Exercício 1](https://rpertille.shinyapps.io/teste/)
+
+
 
 Heading 1
 ======
