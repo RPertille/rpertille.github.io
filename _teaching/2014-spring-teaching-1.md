@@ -4,7 +4,7 @@ collection: teaching
 type: "graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UTFPR - PB / PPGAG"
-date: 2019-02
+date: 2019-02-01
 location: "Pato Branco, Paraná, Brazil"
 ---
 
