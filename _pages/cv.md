@@ -26,11 +26,12 @@ Work experience
   
 Skills
 ======
-* Fruits
 * Horticulture
-  * Ecophysiology
-  * Orchard management
-  * Dormancy
+  * Fruits
+    * Ecophysiology
+    * Dormancy
+    * Orchard management
+    * Fruit Breeding
   
 * Computational statistics
   * Programming in R language
