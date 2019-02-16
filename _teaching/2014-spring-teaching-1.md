@@ -1,24 +1,19 @@
 ---
 title: "Disciplina de introdução a linguagem R"
 collection: teaching
-type: "graduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "UTFPR - PB / PPGAG"
 date: 2019-02-01
 location: "Pato Branco, Paraná, Brazil"
 ---
 
-Material curso
+Disciplina de introdução a linguagem R para análise de experimentos agropecuários
+  - Ambiente de trabalho (IDE) e operações básicas, pacotes e repositórios  
+  - Manipulação de dados
+  - Transformações
+  - Estatísticas básicas
+  
+Material do Curso
 
-[Exercício 1](https://rpertille.shinyapps.io/teste/)
-
-
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<em breve>
