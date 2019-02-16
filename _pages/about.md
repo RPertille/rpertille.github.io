@@ -12,6 +12,12 @@ redirect_from:
 Hello World!
 This page is about me!
 
+
+> Sempre haverá mais ignorantes que sabedores, enquanto a ignorância for gratuita e a ciência dispendiosa.  
+>_Marquês de Maricá_
+
+> Exemplos escolhidos nunca constituem evidência séria para qualquer generalização válida.
+> _Richard Dawkins_
 ---
 
 
