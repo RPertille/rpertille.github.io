@@ -16,8 +16,6 @@ This page is about me!
 > Do mesmo modo que o metal enferruja com a ociosidade e a água parada perde sua pureza, assim a inércia esgota a energia da mente.   
 > **Leonardo da Vinci**
 
-> Exemplos escolhidos nunca constituem evidência séria para qualquer generalização válida.  
-> **Richard Dawkins**
 ---
 
 
