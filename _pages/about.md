@@ -14,10 +14,10 @@ This page is about me!
 
 
 > Sempre haverá mais ignorantes que sabedores, enquanto a ignorância for gratuita e a ciência dispendiosa.  
->_Marquês de Maricá_
+> **Marquês de Maricá**
 
 > Exemplos escolhidos nunca constituem evidência séria para qualquer generalização válida.  
-> _Richard Dawkins_
+> **Richard Dawkins**
 ---
 
 
