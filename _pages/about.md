@@ -13,8 +13,8 @@ Hello World!
 This page is about me!
 
 
-> Sempre haverá mais ignorantes que sabedores, enquanto a ignorância for gratuita e a ciência dispendiosa.  
-> **Marquês de Maricá**
+> Do mesmo modo que o metal enferruja com a ociosidade e a água parada perde sua pureza, assim a inércia esgota a energia da mente.   
+> **Leonardo da Vinci**
 
 > Exemplos escolhidos nunca constituem evidência séria para qualquer generalização válida.  
 > **Richard Dawkins**
