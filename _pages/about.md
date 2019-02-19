@@ -13,7 +13,7 @@ Hello World!
 This page is about me!
 
 
-> Do mesmo modo que o metal enferruja com a ociosidade e a água parada perde sua pureza, assim a inércia esgota a energia da mente.   
+> Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.
 > **Leonardo da Vinci**
 
 ---
