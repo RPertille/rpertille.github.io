@@ -13,7 +13,7 @@ Hello World!
 This page is about me!
 
 
-> Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.
+> Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.  
 > **Leonardo da Vinci**
 
 ---
