@@ -30,7 +30,7 @@ Click [here](https://www.researchgate.net/publication/308948364_DiseasePlan_-_a_
 - Dynamic Model (Fichmann, 1987) adapted of the "chillR" package
 - Unified Model of Chuine (Chuine, I. et al. 2016)
 
-The 'ChillModels' package is hosted in GitHub. You can download it from GitHub using devtools package.
+The `ChillModels` package is hosted in GitHub. You can download it from GitHub using devtools package.
 
 ```r
 install.packages("devtools")
