@@ -16,7 +16,7 @@ Click [here](https://www.researchgate.net/publication/308948364_DiseasePlan_-_a_
 
 ### 2. ChillModels Package - Functions for Processing Chill and Heat Models for Temperate Fruit Trees
 
-##### R package - contains procedures for calculate the chilling and heat accumulation for studies in the temperate fruit trees. The models in this package are:
+#### R package - contains procedures for calculate the chilling and heat accumulation for studies in the temperate fruit trees. The models in this package are:
 
     - Utah (Richardson et al., 1974)
     - PCU (Utah modified by Infruitec)
