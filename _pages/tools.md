@@ -33,7 +33,7 @@ R package - contains procedures for calculate the chilling and heat accumulation
 The `ChillModels` package is hosted in GitHub. You can download it from GitHub using devtools package.
 
 
->install.packages("devtools")
->devtools::install_github("RPertille/ChillModels")
+>install.packages("devtools")  
+>devtools::install_github("RPertille/ChillModels")  
 >library(ChillModels)
 
