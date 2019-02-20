@@ -32,8 +32,9 @@ Click [here](https://www.researchgate.net/publication/308948364_DiseasePlan_-_a_
     - Unified Model of Chuine (Chuine, I. et al. 2016)
 
 The 'ChillModels' package is hosted in GitHub. You can download it from GitHub using devtools package.
-'''js
+
+```r
 install.packages("devtools")
 devtools::install_github("RPertille/ChillModels")
 library(ChillModels)
-'''
+```
