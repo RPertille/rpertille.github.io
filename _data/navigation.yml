@@ -10,7 +10,7 @@ main:
     url: /tools/
           
   - title: "Blog Posts"
-    url: /year-archive/
+    url: https://rpubs.com/RPertille/
     
   - title: "CV"
     url: /cv/
