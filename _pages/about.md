@@ -21,6 +21,6 @@ This page is about me!
 
 Contador de visitas
   
-<a href='https://contador.s12.com.br'><img src='https://contador.s12.com.br/img-z0caWZCd2dZB64y2-24.gif' border='0' alt='visitas'></a><script type='text/javascript' src='https://contador.s12.com.br/ad.js?id=z0caWZCd2dZB64y2'></script>
+<a href='https://www.counter12.com'><img src='https://www.counter12.com/img-414y5yAz9Yxya3Zz-24.gif' border='0' alt='contador free'></a><script type='text/javascript' src='https://www.counter12.com/ad.js?id=414y5yAz9Yxya3Zz'></script>
 
 ---
