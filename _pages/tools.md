@@ -30,6 +30,8 @@ R package - contains procedures for calculate the chilling and heat accumulation
  - Dynamic Model (Fichmann, 1987) adapted of the "chillR" package  
  - Unified Model of Chuine (Chuine, I. et al. 2016)
 
+[**Package Documentation**](https://rpertille.github.io/ChillModels/) 
+
 The `ChillModels` package is hosted in GitHub. You can download it from GitHub using devtools package.
 
 
