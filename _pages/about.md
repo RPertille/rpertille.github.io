@@ -9,8 +9,7 @@ redirect_from:
   
 ---
 
-Hello World!
-This page is about me!
+Agronomist engineer, M.sc student, researcher in horticulture and enthusiast of the R language for data science.
 
 
 > Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.  
