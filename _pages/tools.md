@@ -32,7 +32,7 @@ R package - contains procedures for calculate the chilling and heat accumulation
 
 [**Package Documentation**](https://rpertille.github.io/ChillModels/)  or download .pdf - [**Reference manual (PDF)**](https://cran.r-project.org/web/packages/ChillModels/ChillModels.pdf)
 
-Paper in Computers and Eletronics in Agricultures [*here*](https://doi.org/10.1016/j.compag.2019.105067)
+Paper in Computers and Eletronics in Agriculture [*here*](https://doi.org/10.1016/j.compag.2019.105067)
 
 The release version of `ChillModels` package is hosted in GitHub. You can download it from GitHub using devtools package.
 
