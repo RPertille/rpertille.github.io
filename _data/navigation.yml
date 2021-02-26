@@ -2,6 +2,9 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Consulting Services - Brainship"
+    url: https://brainship.com.br/rafaelpertille
 
   - title: "Talks"
     url: /talks/   
