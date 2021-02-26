@@ -9,7 +9,7 @@ redirect_from:
   
 ---
 
-Agronomist engineer, M.sc student, researcher in horticulture, enthusiast of the R language for data science and investor in the capital markets.
+Agronomist engineer, Master of Science, Doctoral Student, researcher in horticulture, enthusiast of the R language for data science and investor in the capital markets.
 
 
 > Iron rusts from disuse, stagnant water loses its purity, and in cold weather becomes frozen; even so does inaction sap the vigors of the mind.  
