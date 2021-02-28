@@ -11,6 +11,6 @@ redirect_from:
 
 # [Check out the demo](link)
 
-# [![Screenshot](link imagem hospedado no github)](link de site para redirecionar)
+# [![Screenshot](...)](link de site para redirecionar)
 
 
