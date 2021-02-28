@@ -3,6 +3,8 @@ layout: archive
 title: "Courses"
 permalink: /cursor/
 author_profile: true
+redirect_from:
+  - /cursor
 ---
 
 
