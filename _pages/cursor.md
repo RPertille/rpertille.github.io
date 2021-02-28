@@ -1,3 +1,15 @@
+---
+permalink: /
+title: "Courses"
+excerpt: "Courses"
+author_profile: true
+redirect_from: 
+  - /cursor/
+  - /cursor.html
+  
+---
+
+
 # Wowchemy's Hello World Template for [Hugo](https://github.com/gohugoio/hugo)
 
 Kick off your site with this Hello World boilerplate. This starter ships with the main Wowchemy configuration files you might need to get up and running fast with the Wowchemy Website Builder for Hugo.  👉 [**Get Started**](https://wowchemy.com/templates/)
