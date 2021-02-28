@@ -1,13 +1,12 @@
 ---
-permalink: /
+
+layout: archive
 title: "Courses"
-excerpt: "Courses"
-author_profile: false
-redirect_from: 
-  - /cursor/
-  - /cursor.html
-  
+permalink: /cursor/
+author_profile: true
+
 ---
+
 
 
 # Wowchemy's Hello World Template for [Hugo](https://github.com/gohugoio/hugo)
