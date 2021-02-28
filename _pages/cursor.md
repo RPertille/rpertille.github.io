@@ -1,10 +1,8 @@
 ---
-
 layout: archive
 title: "Courses"
 permalink: /cursor/
 author_profile: true
-
 ---
 
 
