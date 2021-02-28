@@ -2,7 +2,7 @@
 permalink: /
 title: "Courses"
 excerpt: "Courses"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /cursor/
   - /cursor.html
