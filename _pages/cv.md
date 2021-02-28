@@ -11,33 +11,34 @@ redirect_from:
 
 Education
 ======
-* Agronomist Engineer, Federal University of Technology - Paraná, 2018.
-* M.sc Student, Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná, 2019 - current.
+* **Agronomist Engineer**, Federal University of Technology - Paraná, 2018.
+* **Master of Science**, Post-Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná, 2019 - 2021.
+* **Doctorate Student**, Post-Graduate Program in Agronomy - Horticulture, Federal University of Technology - Paraná, 2021 - current.
 
 Work experience
 ======
-* 2014-2017: Research Assistant/Trainee
+* 2014-2017: **Research Assistant/Trainee**
   * Project ¨Xisto Agrícola¨
   * Embrapa CPACT / Petrobras
 
-* 2017-2018: Scientific researcher
+* 2017-2018: **Scientific researcher**
   * Federal University of Technology - Paraná, Pato Branco, Paraná, Brazil.
   * Modeling of the heterogeneity of temperate fruit trees growing in subtropical conditions.
   
 Skills
 ======
-* Horticulture
+* **Horticulture**
   * Fruits
     * Ecophysiology
     * Dormancy
     * Orchard management
     * Fruit Breeding
   
-* Computational statistics
+* **Computational statistics**
   * Programming in R language
   * Data Science
   
-* Scientific communication / reproducibility
+* **Scientific communication / reproducibility**
   * R Markdown - knitr
   
 Publications
