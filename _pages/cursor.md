@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Courses"
+title: "Portfólio de Cursos e Produtos"
 permalink: /cursor/
 author_profile: true
 redirect_from:
