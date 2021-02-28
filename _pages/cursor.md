@@ -9,8 +9,8 @@ redirect_from:
 
 
 
-# [Check out the demo](https://starter-hello-world.netlify.app/) of what you'll get in less than 10 minutes, or [read the user stories](https://wowchemy.com/user-stories/).
+# [Check out the demo](link)
 
-# [![Screenshot](https://github.com/wowchemy/starter-hello-world/raw/main/preview.png)](https://wowchemy.com/templates/)
+# [![Screenshot](link imagem hospedado no github)](link de site para redirecionar)
 
 
