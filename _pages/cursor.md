@@ -17,7 +17,7 @@ redirect_from:
  
  [Regressões lineares, não lineares, mistas e generalizadas em R (Intermediário)](https://go.kiwify.com.br/pZEEG4Q) -> Em breve
  
- [Construção de gráficos em linguagem R com ggplot2 (Intermediário)](https://go.kiwify.com.br/usC1jDm) -> Em breve
+ [Construção de gráficos em linguagem R (Intermediário)](https://go.kiwify.com.br/usC1jDm) -> Em breve
  
  [Data Wrangling (Intermediário)](https://go.kiwify.com.br/oIViGzI) -> Em breve
  
