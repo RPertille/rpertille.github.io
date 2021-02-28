@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Portfólio de Cursos e Produtos"
-permalink: /cursor/
+permalink: /cursos/
 author_profile: true
 redirect_from:
-  - /cursor
+  - /cursos
 ---
 
 
