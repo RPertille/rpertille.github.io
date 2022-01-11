@@ -44,7 +44,7 @@ Expertise
 * **Scientific communication / reproducibility**
   * R Markdown - knitr
   
-  Skills
+Skills
 ======
 * **Statistic**
 * **R Programming Language**
