@@ -25,7 +25,7 @@ Work experience
   * Federal University of Technology - Paraná, Pato Branco, Paraná, Brazil.
   * Modeling of the heterogeneity of temperate fruit trees growing in subtropical conditions.
   
-Skills
+Expertise
 ======
 * **Horticulture**
   * Fruits
@@ -37,15 +37,36 @@ Skills
 * **Computational statistics**
   * Programming in R language
   * Data Science
+    * Data Analysis and Data Visualization
+    * Statistical Modeling
+    * Machine Learning
   
 * **Scientific communication / reproducibility**
   * R Markdown - knitr
   
+  Skills
+======
+* **Statistic**
+* **R Programming Language**
+* **Languages**
+  * English (Advanced)
+  * Spanish (Intermediate)
+  * French (Basic)  
+* Proactivity
+* Critical thinking
+* Problem solving
+* Creativity
+* Adaptation
+* Leadership
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+  
+  
   
 Talks
 ======
