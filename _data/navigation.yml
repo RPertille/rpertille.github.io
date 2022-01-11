@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "CV"
+    url: /cv/
+    
   - title: "Publications"
     url: /publications/
 
@@ -11,9 +14,6 @@ main:
           
   - title: "Posts"
     url: https://rpubs.com/RPertille/ ## antes era  url: /year-archive/ aqui
-    
-  - title: "CV"
-    url: /cv/
     
   - title: "Courses"
     url: /cursos/
