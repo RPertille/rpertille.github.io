@@ -15,8 +15,5 @@ main:
   - title: "Posts"
     url: https://rpubs.com/RPertille/ ## antes era  url: /year-archive/ aqui
     
-  - title: "Courses"
-    url: /cursos/
-    
   - title: "Consulting Services - Brainship"
     url: https://brainship.com.br/rafaelpertille
